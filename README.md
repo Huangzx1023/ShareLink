@@ -2,7 +2,8 @@
 We propose a novel ShareLink model that aims at achieving 
 cross-hemispheric representation alignment through a shared expert mechanism while enhancing generalization capabilities. 
 The architecture of ShareLink is as followed.
-![The architecture of ShareLink.](model.png)
+![image](https://github.com/user-attachments/assets/ab4682a7-60ee-46ef-8f03-ef7eac7cce64)
+
 
 ## Experiment Setting
   ShareLink was trained with a batch size of 512 and 0.1 dropout, using the
